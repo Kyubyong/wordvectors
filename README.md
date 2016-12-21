@@ -1,6 +1,6 @@
 # Pre-trained word vectors of 30+ languages
 
-This project has two purposes. First of all, I'd like to share some of my experience in nlp tasks such as segmentation or word vectors. The other, which is more important, is that probably some people are searching for pre-trained word vector models for non-English languages. Alas! English has gained much more attentions than any other languages. Check [this](https://github.com/3Top/word2vec-api) to see how easily you can get a variety of pre-trained English word vectors without efforts. I think it's time to turn our eyes to a multi language version of this.
+This project has two purposes. First of all, I'd like to share some of my experience in nlp tasks such as segmentation or word vectors. The other, which is more important, is that probably some people are searching for pre-trained word vector models for non-English languages. Alas! English has gained much more attention than any other languages has done. Check [this](https://github.com/3Top/word2vec-api) to see how easily you can get a variety of pre-trained English word vectors without efforts. I think it's time to turn our eyes to a multi language version of this.
 
 <b>Nearing the end of the work, I happened to know that there is already a similar job named `polyglot`. I strongly encourage you to check [this great project](https://sites.google.com/site/rmyeid/projects/polyglot). How embarrassing! Nevertheless, I decided to open this project. You will know that my job has its own flavor, after all.</b>
 
